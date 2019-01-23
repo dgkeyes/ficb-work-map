@@ -57,9 +57,9 @@ dk_tfff_counties_basemap <- function() {
 
 # Get data ----------------------------------------------------------------
 
-# gs_title("FICB map data") %>%
-#      gs_download(to = "data/ficb_map_data.xlsx",
-#                  overwrite = TRUE)
+gs_title("FICB map data") %>%
+     gs_download(to = "data/ficb_map_data.xlsx",
+                 overwrite = TRUE)
 
 work_data <- read_excel("data/ficb_map_data.xlsx",
                         sheet = "Communities") %>%
