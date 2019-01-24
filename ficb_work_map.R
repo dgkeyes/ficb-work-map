@@ -80,7 +80,9 @@ work_data <- read_excel("data/ficb_map_data.xlsx",
 
 # Save work_data to label in Word doc
 
-write.csv(work_data, "data/work_data.csv")     
+write.csv(work_data, 
+          "data/work_data.csv",
+          na = " ")     
 
 # TFFF offices
 
@@ -251,10 +253,10 @@ ggsave("plots/FICB-work-map.png",
 
 # Save as PDF in order to grab points for legend
 
-ggsave("plots/FICB-work-map.pdf")
-ggsave("plots/FICB-work-map.svg",
-       height = 9,
-       width = 9)
+# ggsave("plots/FICB-work-map.pdf")
+# ggsave("plots/FICB-work-map.svg",
+#        height = 9,
+#        width = 9)
 
 
 

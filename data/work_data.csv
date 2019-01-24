@@ -1,61 +1,69 @@
-"","community","state","full_address","latitude","longitude","county","region","maturity_of_relationship","type_of_work","community_networking","listening","latino_leadership","local_mobilizing","regional_mobilizing","project_development","visioning","x4c_focus","n","label"
-"1","Warm Springs","OR","Warm Springs OR",44.7634519,-121.2661625,"jefferson","Crook/Jefferson","Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections",1,"1) Warm Springs"
-"2","Madras","OR","Madras OR",44.6334544,-121.1294872,"jefferson","Crook/Jefferson","Level One: Developing","Mobilizing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections",2,"2) Madras"
-"3","Prineville","OR","Prineville OR",44.2998485,-120.8344664,"crook","Crook/Jefferson","Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections",3,"3) Prineville"
-"4","McKenzie Bridge","OR","McKenzie Bridge OR",44.1751238,-122.1639473,"lane","McKenzie River","Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections and Capacity",4,"4) McKenzie Bridge"
-"5","Blue River","OR","Blue River OR",44.1539359999999,-122.3387108,"lane","McKenzie River","Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections and Capacity",5,"5) Blue River"
-"6","Vida","OR","Vida OR",44.1470308,-122.5733529,"lane","McKenzie River","Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X",NA,NA,"Connections and Capacity",6,"6) Vida"
-"7","Irrigon","OR","Irrigon OR",45.8956885,-119.4914118,"morrow",NA,"Level One: Developing","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Capacity",7,"7) Irrigon"
-"8","Hermiston","OR","Hermiston OR",45.8404101,-119.2894604,"umatilla",NA,"Level One: Developing","Latino Leadership",NA,NA,NA,"X",NA,NA,NA,"Capacity",8,"8) Hermiston"
-"9","Boardman","OR","Boardman OR",45.839855,-119.7005834,"morrow",NA,"Level One: Developing","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Capacity",9,"9) Boardman"
-"10","Scappoose","OR","Scappoose OR",45.7544422,-122.8777897,"columbia",NA,"Level One: Developing","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Capacity",10,"10) Scappoose"
-"11","Enterprise","OR","Enterprise OR",45.4262617,-117.2787816,"wallowa",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",11,"11) Enterprise"
-"12","Heppner","OR","Heppner OR",45.3531842,-119.5577997,"morrow",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",12,"12) Heppner"
-"13","Estacada","OR","Estacada OR",45.2944367,-122.3338032,"clackamas",NA,"Level One: Developing","Mobilizing (Local)","X",NA,NA,"X",NA,NA,NA,"Connections",13,"13) Estacada"
-"14","Canby","OR","Canby OR",45.2622049999999,-122.6921558,"marion",NA,"Level One: Developing","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Capacity",14,"14) Canby"
-"15","Woodburn","OR","Woodburn OR",45.143731,-122.8553724,"marion",NA,"Level One: Developing","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Capacity and CL Action",15,"15) Woodburn"
-"16","Dallas","OR","Dallas OR",44.9192844,-123.3170472,"polk",NA,"Level One: Developing","Community Networking","X",NA,NA,NA,NA,NA,NA,"Connections",16,"16) Dallas"
-"17","Halfway","OR","Halfway OR",44.880715,-117.1146172,"baker",NA,"Level One: Developing","Mobilizing (Regional)",NA,NA,NA,"X",NA,NA,NA,"CL Action and CB Culture",17,"17) Halfway"
-"18","Monroe","OR","Monroe OR",44.3140116,-123.2967637,"benton",NA,"Level One: Developing","Project Development",NA,NA,NA,"X",NA,NA,NA,"Connections",18,"18) Monroe"
-"19","Sisters","OR","Sisters OR",44.2909491,-121.5492119,"deschutes",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"Connections",19,"19) Sisters"
-"20","Coburg","OR","Coburg OR",44.1370689,-123.0664761,"lane",NA,"Level One: Developing","Visioning",NA,NA,NA,NA,"X","X",NA,"CL Action",20,"20) Coburg"
-"21","Cottage Grove","OR","Cottage Grove OR",43.797623,-123.0595246,"lane",NA,"Level One: Developing","Listening",NA,"X",NA,NA,NA,NA,"X","Connections",21,"21) Cottage Grove"
-"22","Adrian","OR","Adrian OR",43.7407155,-117.0718261,"malheur",NA,"Level One: Developing","Visioning",NA,NA,NA,NA,NA,NA,"X","CL Action",22,"22) Adrian"
-"23","Burns","OR","Burns OR",43.5862606,-119.0541032,"harney",NA,"Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X","X",NA,"Connections",23,"23) Burns"
-"24","Winston","OR","Winston OR",43.1223383,-123.4125724,"douglas",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",24,"24) Winston"
-"25","Bandon","OR","Bandon OR",43.1189978,-124.408448,"coos",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",25,"25) Bandon"
-"26","Riddle","OR","Riddle OR",42.9509507,-123.3642332,"douglas",NA,"Level One: Developing","Listening",NA,"X",NA,NA,NA,NA,NA,"Connections",26,"26) Riddle"
-"27","Powers","OR","Powers OR",42.8834435,-124.073152,"coos",NA,"Level One: Developing","Listening",NA,"X",NA,NA,NA,NA,NA,"Connections",27,"27) Powers"
-"28","Grants Pass","OR","Grants Pass OR",42.4390069,-123.3283925,"josephine",NA,"Level One: Developing","Mobilzing (Regional)",NA,NA,NA,NA,"X","X",NA,"Connections",28,"28) Grants Pass"
-"29","Brookings","OR","Brookings OR",42.0526114,-124.2839819,"curry",NA,"Level One: Developing","Community Networking","X",NA,NA,NA,NA,NA,NA,"Connections",29,"29) Brookings"
-"30","Happy Camp","CA","Happy Camp CA",41.792654,-123.3785705,"siskiyou",NA,"Level One: Developing","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",30,"30) Happy Camp"
-"31","Yreka","CA","Yreka CA",41.7354186,-122.6344709,"siskiyou",NA,"Level One: Developing","Listening",NA,"X",NA,NA,NA,NA,NA,"Connections",31,"31) Yreka"
-"32","Weed","CA","Weed CA",41.4226497999999,-122.3861269,"siskiyou",NA,"Level One: Developing","Listening",NA,"X",NA,NA,NA,NA,NA,"Connections",32,"32) Weed"
-"33","Dunsmuir","CA","Dunsmuir CA",41.2082089,-122.2719529,"siskiyou",NA,"Level One: Developing","Listening",NA,NA,NA,NA,NA,NA,NA,"Connections",33,"33) Dunsmuir"
-"34","Applegate","OR","Applegate OR",42.2570662,-123.1683833,"jackson","Applegate Valley","Level Two: Defined","Mobilizing (Regional)","X",NA,NA,NA,"X",NA,NA,"Connection and Capacity",34,"34) Applegate"
-"35","Ruch","OR","Ruch OR",42.2365133,-123.0422659,"jackson","Applegate Valley","Level Two: Defined","Mobilizing (Regional)","X",NA,NA,NA,"X",NA,NA,"Connections and Capacity",35,"35) Ruch"
-"36","Williams","OR","Williams OR",42.2187354,-123.2739548,"josephine","Applegate Valley","Level Two: Defined","Mobilzing (Regional)","X",NA,NA,NA,"X",NA,NA,"Connections and Capacity",36,"36) Williams"
-"37","Hood River","OR","Hood River OR",45.7053966,-121.5214623,"hood river",NA,"Level Two: Defined","Latino Leadership",NA,NA,"X",NA,NA,NA,NA,"Connections",37,"37) Hood River"
-"38","Newberg","OR","Newberg OR",45.3064628,-122.9469406,"yamhill",NA,"Level Two: Defined","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"Connections and CL Action",38,"38) Newberg"
-"39","Union","OR","Union OR",45.2084696,-117.8652126,"union",NA,"Level Two: Defined","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"Connections and CL Action",39,"39) Union"
-"40","Molalla","OR","Molalla OR",45.1462914,-122.5756477,"clackamas",NA,"Level Two: Defined","Latino Leadership, Vision, Project Development",NA,NA,"X",NA,NA,"X","X","Capacity and CL Action",40,"40) Molalla"
-"41","Willamina","OR","Willamina OR",45.0787251,-123.4859416,"yamhill",NA,"Level Two: Defined","Visioning",NA,NA,NA,NA,NA,"X","X","CL Action",41,"41) Willamina"
-"42","Baker City","OR","Baker City OR",44.7748748,-117.8343848,"baker",NA,"Level Two: Defined","Community Networking, Mobilizing (Local)","X",NA,NA,"X",NA,NA,NA,"Connection and Capacity",42,"42) Baker City"
-"43","Scott Valley","CA","Scott Valley CA",41.602682,-122.856937,"siskiyou",NA,"Level Two: Defined","Mobilizing (Local)",NA,NA,NA,"X",NA,NA,NA,"CL Action",43,"43) Scott Valley"
-"44","Mt. Shasta","CA","Mt. Shasta CA",41.3098746,-122.3105666,"siskiyou",NA,"Level Two: Defined","Listening, Mobilizing (Local)",NA,"X",NA,NA,NA,"X",NA,"Connections",44,"44) Mt. Shasta"
-"45","Selma","OR","Selma OR",42.2793208,-123.6161053,"josephine","Illinois Valley","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",45,"45) Selma"
-"46","Kerby","OR","Kerby OR",42.1942797,-123.651735,"josephine","Illinois Valley","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",46,"46) Kerby"
-"47","Cave Junction","OR","Cave Junction OR",42.1628912,-123.6481235,"josephine","Illinois Valley","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",47,"47) Cave Junction"
-"48","O'Brien","OR","O'Brien OR",42.0668843,-123.7028585,"josephine","Illinois Valley","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",48,"48) O'Brien"
-"49","Takilma","OR","Takilma OR",42.0516669999999,-123.6183329,"josephine","Illinois Valley","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",49,"49) Takilma"
-"50","Bonanza","OR","Bonanza OR",42.1987607,-121.4061076,"klamath","Rural Klamath","Level Three: Deepening","Mobilizing (Regional)","X","X",NA,NA,"X",NA,NA,"CL Action",50,"50) Bonanza"
-"51","Merrill","OR","Merrill, OR",42.0251516,-121.6005501,"klamath","Rural Klamath","Level Three: Deepening","Mobilizing (Regional)","X","X",NA,NA,"X",NA,NA,"CL Action",51,"51) Merrill"
-"52","Malin","OR","Malin OR",42.0126551,-121.4086021,"klamath","Rural Klamath","Level Three: Deepening","Mobilizing (Regional)","X","X",NA,NA,"X",NA,NA,"CL Action",52,"52) Malin"
-"53","Dorris","CA","Dorris CA",41.9673696,-121.91806,"siskiyou","Rural Klamath","Level Three: Deepening","Mobilizing (Regional)","X","X",NA,NA,"X",NA,NA,"CL Action",53,"53) Dorris"
-"54","Butte Valley","CA","Butte Valley CA",41.894237,-121.973768,"siskiyou","Rural Klamath","Level Three: Deepening","Mobilizing (Regional)","X","X",NA,NA,"X",NA,NA,"CL Action",54,"54) Butte Valley"
-"55","Deadwood","OR","Deadwood OR",44.0956754,-123.7634387,"lane","Siuslaw","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",55,"55) Deadwood"
-"56","Swisshome","OR","Swisshome OR",44.0578979,-123.7992733,"lane","Siuslaw","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",56,"56) Swisshome"
-"57","Mapleton","OR","Mapleton OR",44.0312703,-123.8595462,"lane","Siuslaw","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",57,"57) Mapleton"
-"58","Florence","OR","Florence OR",43.9826214,-124.099841,"lane","Siuslaw","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",58,"58) Florence"
-"59","Dunes City","OR","Dunes City OR",43.8831751,-124.1151165,"lane","Siuslaw","Level Three: Deepening","Visioning","X","X",NA,NA,NA,"X","X","CL Action and CB Culture",59,"59) Dunes City"
-"60","Ontario","OR","Ontario OR",44.0265525,-116.9629378,"malheur",NA,"Level Three: Deepening","Latino Leadership, Project Development",NA,NA,"X","X","X","X",NA,"Connections, Capacity, CL Action and CB Culture",60,"60) Ontario"
+,community,state,full_address,latitude,longitude,county,region,maturity_of_relationship,type_of_work,community_networking,listening,latino_leadership,local_mobilizing,regional_mobilizing,project_development,visioning,x4c_focus,n,label
+1,Warm Springs,OR,Warm Springs OR,44.7634519,-121.2661625,jefferson,Crook/Jefferson,Level One: Developing,Mobilzing (Regional), , , , ,X, , ,Connections,1,1) Warm Springs
+2,Madras,OR,Madras OR,44.6334544,-121.1294872,jefferson,Crook/Jefferson,Level One: Developing,Mobilizing (Regional), , , , ,X, , ,Connections,2,2) Madras
+3,Prineville,OR,Prineville OR,44.2998485,-120.8344664,crook,Crook/Jefferson,Level One: Developing,Mobilizing (Regional), , , , ,X, , ,Connections,3,3) Prineville
+4,McKenzie Bridge,OR,McKenzie Bridge OR,44.1751238,-122.1639473,lane,McKenzie River,Level One: Developing,Mobilzing (Regional), , , , ,X, , ,Connections and Capacity,4,4) McKenzie Bridge
+5,Blue River,OR,Blue River OR,44.153936,-122.3387108,lane,McKenzie River,Level One: Developing,Mobilzing (Regional), , , , ,X, , ,Connections and Capacity,5,5) Blue River
+6,Vida,OR,Vida OR,44.1470308,-122.5733529,lane,McKenzie River,Level One: Developing,Mobilzing (Regional), , , , ,X, , ,Connections and Capacity,6,6) Vida
+7,Irrigon,OR,Irrigon OR,45.8956885,-119.4914118,morrow, ,Level One: Developing,Latino Leadership, , ,X, , , , ,Capacity,7,7) Irrigon
+8,Hermiston,OR,Hermiston OR,45.8404101,-119.2894604,umatilla, ,Level One: Developing,Latino Leadership, , , ,X, , , ,Capacity,8,8) Hermiston
+9,Boardman,OR,Boardman OR,45.839855,-119.7005834,morrow, ,Level One: Developing,Latino Leadership, , ,X, , , , ,Capacity,9,9) Boardman
+10,Scappoose,OR,Scappoose OR,45.7544422,-122.8777897,columbia, ,Level One: Developing,Latino Leadership, , ,X, , , , ,Capacity,10,10) Scappoose
+11,The Dalles,OR,The Dalles OR,45.5945645,-121.1786823,wasco, ,Level One: Developing, , , , , , , , , ,11,11) The Dalles
+12,Enterprise,OR,Enterprise OR,45.4262617,-117.2787816,wallowa, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,CL Action,12,12) Enterprise
+13,Heppner,OR,Heppner OR,45.3531842,-119.5577997,morrow, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,CL Action,13,13) Heppner
+14,Estacada,OR,Estacada OR,45.2944367,-122.3338032,clackamas, ,Level One: Developing,Mobilizing (Local),X, , ,X, , , ,Connections,14,14) Estacada
+15,Canby,OR,Canby OR,45.262205,-122.6921558,marion, ,Level One: Developing,Latino Leadership, , ,X, , , , ,Capacity,15,15) Canby
+16,Union,OR,Union OR,45.2084696,-117.8652126,union, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,Connections and CL Action,16,16) Union
+17,Woodburn,OR,Woodburn OR,45.143731,-122.8553724,marion, ,Level One: Developing,Latino Leadership, , ,X, , , , ,Capacity and CL Action,17,17) Woodburn
+18,Dallas,OR,Dallas OR,44.9192844,-123.3170472,polk, ,Level One: Developing,Community Networking,X, , , , , , ,Connections,18,18) Dallas
+19,Halfway,OR,Halfway OR,44.880715,-117.1146172,baker, ,Level One: Developing,Mobilizing (Regional), , , ,X, , , ,CL Action and CB Culture,19,19) Halfway
+20,Baker City,OR,Baker City OR,44.7748748,-117.8343848,baker, ,Level One: Developing,"Community Networking, Mobilizing (Local)",X, , ,X, , , ,Connection and Capacity,20,20) Baker City
+21,Monroe,OR,Monroe OR,44.3140116,-123.2967637,benton, ,Level One: Developing,Project Development, , , ,X, , , ,Connections,21,21) Monroe
+22,Coburg,OR,Coburg OR,44.1370689,-123.0664761,lane, ,Level One: Developing,Visioning, , , , ,X,X, ,CL Action,22,22) Coburg
+23,Adrian,OR,Adrian OR,43.7407155,-117.0718261,malheur, ,Level One: Developing,Visioning, , , , , , ,X,CL Action,23,23) Adrian
+24,Reedsport,OR,Reedsport OR,43.7023389,-124.0967779,douglas, ,Level One: Developing, , , , , , , , , ,24,24) Reedsport
+25,Glide,OR,Glide OR,43.3015069,-123.1011754,douglas, ,Level One: Developing, , , , , , , , , ,25,25) Glide
+26,Roseburg,OR,Roseburg OR,43.216498,-123.342332,douglas, ,Level One: Developing, , , , , , , , , ,26,26) Roseburg
+27,Winston,OR,Winston OR,43.1223383,-123.4125724,douglas, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,CL Action,27,27) Winston
+28,Bandon,OR,Bandon OR,43.1189978,-124.408448,coos, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,CL Action,28,28) Bandon
+29,Riddle,OR,Riddle OR,42.9509507,-123.3642332,douglas, ,Level One: Developing,Listening, ,X, , , , , ,Connections,29,29) Riddle
+30,Powers,OR,Powers OR,42.8834435,-124.073152,coos, ,Level One: Developing,Listening, ,X, , , , , ,Connections,30,30) Powers
+31,Port Orford,OR,Port Orford OR,42.7456644,-124.4973267,curry, ,Level One: Developing, , , , , , , , , ,31,31) Port Orford
+32,Grants Pass,OR,Grants Pass OR,42.4390069,-123.3283925,josephine, ,Level One: Developing,Mobilzing (Regional), , , , ,X,X, ,Connections,32,32) Grants Pass
+33,Gold Beach,OR,Gold Beach OR,42.4073334,-124.4217741,curry, ,Level One: Developing, , , , , , , , , ,33,33) Gold Beach
+34,Lakeview,OR,Lakeview OR,42.1887721,-120.345792,lake, ,Level One: Developing, , , , , , , , , ,34,34) Lakeview
+35,Brookings,OR,Brookings OR,42.0526114,-124.2839819,curry, ,Level One: Developing,Community Networking,X, , , , , , ,Connections,35,35) Brookings
+36,Yreka,CA,Yreka CA,41.7354186,-122.6344709,siskiyou, ,Level One: Developing,Listening, ,X, , , , , ,Connections,36,36) Yreka
+37,Etna,CA,Etna CA,41.602682,-122.856937,siskiyou, ,Level One: Developing,Mobilizing (Local), , , ,X, , , ,CL Action,37,37) Etna
+38,Weed,CA,Weed CA,41.4226498,-122.3861269,siskiyou, ,Level One: Developing,Listening, ,X, , , , , ,Connections,38,38) Weed
+39,McCloud,CA,McCloud CA,41.2557119,-122.1394487,siskiyou, ,Level One: Developing, , , , , , , , , ,39,39) McCloud
+40,Dunsmuir,CA,Dunsmuir CA,41.2082089,-122.2719529,siskiyou, ,Level One: Developing,Listening, , , , , , , ,Connections,40,40) Dunsmuir
+41,Hood River,OR,Hood River OR,45.7053966,-121.5214623,hood river, ,Level Two: Defined,Latino Leadership, , ,X, , , , ,Connections,41,41) Hood River
+42,Newberg,OR,Newberg OR,45.3064628,-122.9469406,yamhill, ,Level Two: Defined,Mobilizing (Local), , , ,X, , , ,Connections and CL Action,42,42) Newberg
+43,Molalla,OR,Molalla OR,45.1462914,-122.5756477,clackamas, ,Level Two: Defined,"Latino Leadership, Vision, Project Development", , ,X, , ,X,X,Capacity and CL Action,43,43) Molalla
+44,Willamina,OR,Willamina OR,45.0787251,-123.4859416,yamhill, ,Level Two: Defined,Visioning, , , , , ,X,X,CL Action,44,44) Willamina
+45,Sisters,OR,Sisters OR,44.2909491,-121.5492119,deschutes, ,Level Two: Defined,Mobilizing (Local), , , ,X, , , ,Connections,45,45) Sisters
+46,Cottage Grove,OR,Cottage Grove OR,43.797623,-123.0595246,lane, ,Level Two: Defined,Listening, ,X, , , , ,X,Connections,46,46) Cottage Grove
+47,Mt. Shasta,CA,Mt. Shasta CA,41.3098746,-122.3105666,siskiyou, ,Level Two: Defined,"Listening, Mobilizing (Local)", ,X, , , ,X, ,Connections,47,47) Mt. Shasta
+48,Applegate,OR,Applegate OR,42.2570662,-123.1683833,jackson,Applegate Valley,Level Three: Deepening,Mobilizing (Regional),X, , , ,X, , ,Connection and Capacity,48,48) Applegate
+49,Ruch,OR,Ruch OR,42.2365133,-123.0422659,jackson,Applegate Valley,Level Three: Deepening,Mobilizing (Regional),X, , , ,X, , ,Connections and Capacity,49,49) Ruch
+50,Williams,OR,Williams OR,42.2187354,-123.2739548,josephine,Applegate Valley,Level Three: Deepening,Mobilzing (Regional),X, , , ,X, , ,Connections and Capacity,50,50) Williams
+51,Selma,OR,Selma OR,42.2793208,-123.6161053,josephine,Illinois Valley,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,51,51) Selma
+52,Kerby,OR,Kerby OR,42.1942797,-123.651735,josephine,Illinois Valley,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,52,52) Kerby
+53,Cave Junction,OR,Cave Junction OR,42.1628912,-123.6481235,josephine,Illinois Valley,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,53,53) Cave Junction
+54,O'Brien,OR,O'Brien OR,42.0668843,-123.7028585,josephine,Illinois Valley,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,54,54) O'Brien
+55,Takilma,OR,Takilma OR,42.051667,-123.6183329,josephine,Illinois Valley,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,55,55) Takilma
+56,Bonanza,OR,Bonanza OR,42.1987607,-121.4061076,klamath,Rural Klamath,Level Three: Deepening,Mobilizing (Regional),X,X, , ,X, , ,CL Action,56,56) Bonanza
+57,Merrill,OR,Merrill OR,42.0251516,-121.6005501,klamath,Rural Klamath,Level Three: Deepening,Mobilizing (Regional),X,X, , ,X, , ,CL Action,57,57) Merrill
+58,Malin,OR,Malin OR,42.0126551,-121.4086021,klamath,Rural Klamath,Level Three: Deepening,Mobilizing (Regional),X,X, , ,X, , ,CL Action,58,58) Malin
+59,Dorris,CA,Dorris CA,41.9673696,-121.91806,siskiyou,Rural Klamath,Level Three: Deepening,Mobilizing (Regional),X,X, , ,X, , ,CL Action,59,59) Dorris
+60,Tulelake,CA,Tulelake CA,41.894237,-121.973768,siskiyou,Rural Klamath,Level Three: Deepening,Mobilizing (Regional),X,X, , ,X, , ,CL Action,60,60) Tulelake
+61,Deadwood,OR,Deadwood OR,44.0956754,-123.7634387,lane,Siuslaw,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,61,61) Deadwood
+62,Swisshome,OR,Swisshome OR,44.0578979,-123.7992733,lane,Siuslaw,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,62,62) Swisshome
+63,Mapleton,OR,Mapleton OR,44.0312703,-123.8595462,lane,Siuslaw,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,63,63) Mapleton
+64,Florence,OR,Florence OR,43.9826214,-124.099841,lane,Siuslaw,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,64,64) Florence
+65,Dunes City,OR,Dunes City OR,43.8831751,-124.1151165,lane,Siuslaw,Level Three: Deepening,Visioning,X,X, , , ,X,X,CL Action and CB Culture,65,65) Dunes City
+66,Ontario,OR,Ontario OR,44.0265525,-116.9629378,malheur, ,Level Three: Deepening,"Latino Leadership, Project Development", , ,X,X,X,X, ,"Connections, Capacity, CL Action and CB Culture",66,66) Ontario
+67,Burns,OR,Burns OR,43.5862606,-119.0541032,harney, ,Level Three: Deepening,Mobilzing (Regional), , , , ,X,X, ,Connections,67,67) Burns
+68,Happy Camp,CA,Happy Camp CA,41.792654,-123.3785705,siskiyou, ,Level Three: Deepening,Mobilizing (Local), , , ,X, , , ,CL Action,68,68) Happy Camp
